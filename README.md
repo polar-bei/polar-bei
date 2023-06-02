@@ -1,4 +1,12 @@
-### Recent blog posts
+This is my site: www.studysomething.top
+
+✨ I’m currently working on studying. I'm a student.
+
+🌱 I’m currently learning Ruby.
+
+😄 Pronouns: 闭门即是深山，读书随处净土。
+
+💬 How to reach me: xiaoxinpro030703@outlook.com
 
 <!--
 **polar-bei/polar-bei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
