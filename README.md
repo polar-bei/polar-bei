@@ -1,4 +1,4 @@
-### Hi there 👋
+### Recent blog posts
 
 <!--
 **polar-bei/polar-bei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
