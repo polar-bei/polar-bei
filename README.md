@@ -1,12 +1,21 @@
-This is my site: www.studysomething.top
+## 可以公开的情报
 
-✨ I’m currently working on studying. I'm a student.
+- ME：一位通信工程的大二学生
+- 目标：无限进步
+- 爱好：啥都爱学，啥也不会
 
-🌱 I’m currently learning Ruby.
+## 关于我
 
-😄 Pronouns: 闭门即是深山，读书随处净土。
+这是我的个人网站：<www.studysomething.top>
 
-💬 How to reach me: xiaoxinpro030703@outlook.com
+目前掌握（了解？）的技能：
+
+- 编程语言：C、Python、JavaScript、TypeScipt
+- Web技术：HTML、CSS、JS三大件，node、Vue、React、electron、微信小程序
+- SSG：Hugo、VuePress
+- 其他：在学了在学了
+
+Contact Me：xiaoxinpro030703@outlook.com
 
 <!--
 **polar-bei/polar-bei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+    -->
