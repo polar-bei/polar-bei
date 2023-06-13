@@ -6,13 +6,15 @@
 
 ## 关于我
 
-这是我的个人网站：<www.studysomething.top>
+这是我的个人网站：www.studysomething.top
 
 目前掌握（了解？）的技能：
 
 - 编程语言：C、Python、JavaScript、TypeScipt
 - Web技术：HTML、CSS、JS三大件，node、Vue、React、electron、微信小程序
 - SSG：Hugo、VuePress
+- python：pyqt6
+- 单片机类：Verilog
 - 其他：在学了在学了
 
 Contact Me：xiaoxinpro030703@outlook.com
